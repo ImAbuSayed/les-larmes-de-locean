@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-larmes-de-locean/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Larmes De L'océan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-larmes-de-locean/) |
+| **Get License** | [License this song: Les Larmes De L'océan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-larmes-de-locean/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre, ton parfum m'enivre, c'est l'évidence
+> Sous les néons de Paris, baby on mène la même danse
+> Tes yeux brillent comme les larmes de l'océan
+> Viens plus près de moi, laisse-toi porter par le vent
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
